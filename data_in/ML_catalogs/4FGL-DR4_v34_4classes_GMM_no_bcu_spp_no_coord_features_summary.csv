@@ -1,0 +1,5 @@
+Group,Class label,Node,Physical classes,N assoc,RF assoc,NN assoc,"RF unas,unk,bcu,spp","NN unas,unk,bcu,spp"
+1,fsrq+,000,"fsrq, nlsy1, css",833,835.2 +-  24.4,832.9 +-  40.6,1156.1 +-  28.3,1276.2 +-  84.2
+2,bll+,001,"bll, sey, sbg, agn, ssrq, rdg",1565,1568.0 +-  31.1,1560.5 +-  43.2,1791.7 +-  35.1,1801.1 +-  66.4
+3,psr+,010,"snr, hmb, nov, pwn, psr, gc",225,214.5 +-  18.8,227.8 +-  36.6,576.8 +-  43.4,494.1 +-  97.2
+4,msp+,011,"msp, lmb, glc, gal, sfr, bin",244,249.0 +-  17.7,245.5 +-  26.2,799.3 +-  39.1,752.5 +-  64.4

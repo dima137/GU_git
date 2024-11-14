@@ -1,0 +1,6 @@
+Group,Class label,Node,Physical classes,N assoc,PDF assoc,"PDF unas,unk,bcu,spp"
+1,fsrq+,000,"fsrq, nlsy1, css",833,584.7,721.4
+2,bll+,001,"bll, sey, sbg, agn, ssrq, rdg",1565,893.9,1070.5
+3,psr+,010,"snr, hmb, nov, pwn, psr, gc",225,202.8,126.5
+4,msp+,011,"msp, lmb, glc, gal, sfr, bin",244,301.5,623.9
+5,Gauss,,Gauss,0.0,328.1,1005.8
