@@ -1,0 +1,19 @@
+The folder contains catalogs of Fermi-LAT sources determined with prior and covariate shift models.
+The covariate shift model catalog is
+4FGL-DR4_v34_4classes_GMM_no_bcu_spp_no_coord_features_prob_cat.csv
+The corresponding summary file that contains definitions of the groups is
+4FGL-DR4_v34_4classes_GMM_no_bcu_spp_no_coord_features_summary.csv
+
+The prior shift model including an additional Guassian component is
+4FGL-DR4_v34_4classes_GMM_no_bcu_spp_no_coord_features_unas_unk_prior_shift_npar4_1Gauss_prob_cat
+The corresponding summary file that contains definitions of the groups is
+4FGL-DR4_v34_4classes_GMM_no_bcu_spp_no_coord_features_unas_unk_prior_shift_npar4_1Gauss_summary.csv
+
+The file
+4FGL-DR4_v34_cov_shift_vs_prior_shift_prediction.csv
+contains a comparison of predictions for the prior and covariate shift models.
+The column RF_prob contains the largest probability for a class in covariate shift model, 
+while the column contains the corresponding class in the covariate shift model (determined with the RF method).
+The columns PDF_prob and PDF_class contain correspondingly the highest probability and the corresponding class in the
+prior shift model (determined with the PDF method).
+The column Gauss_PDF contains separately the Gaussian component probability in the prior shift model.
